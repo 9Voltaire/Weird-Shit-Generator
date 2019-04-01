@@ -1,1 +1,1 @@
-"# Weird-Shit-Generator" 
+"# Weird Stuff Generator" 
